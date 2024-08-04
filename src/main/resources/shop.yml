@@ -1,0 +1,34 @@
+# Titulo do menu
+title: '&6Loja de cash'
+# Tamanho do menu
+rows: 5
+# Layout do menu
+layout:
+  - 'XXXXXXXXX'
+  - 'XOOOOOOOX'
+  - '<OOOOOOO>'
+  - 'XOOOOOOOX'
+  - 'XXXXXXXXX'
+items:
+  1:
+    display:
+      # ID do item: 1, STONE ou url da head
+      material: STONE
+      # Data do item
+      data: 0
+      # Nome do item
+      name: ''
+      # Lore do item
+      lore: []
+      # Item com glow?
+      glow: false
+    # ID do item: 1, STONE ou url da head
+    material: STONE
+    # Data do item
+    data: 0
+    # Nome do item
+    name: ''
+    # Lore do item
+    lore: []
+    # Encantamentos do item - 'ENCHANT,LVL'
+    enchants: []
