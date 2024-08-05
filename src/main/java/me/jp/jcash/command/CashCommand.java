@@ -13,6 +13,7 @@ public class CashCommand {
     )
     public void execute(Context<CommandSender> context) {
         val player = (Player) context.getSender();
+
     }
 
 }
